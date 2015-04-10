@@ -1,0 +1,5 @@
+c:\users\lab104bpc17\documents\visual studio 2012\Projects\AppCambioLetraANumero\AppCambioLetraANumero\bin\Debug\AppCambioLetraANumero.exe.config
+C:\Users\LAB104BPC17\Documents\Visual Studio 2012\Projects\AppCambioLetraANumero\AppCambioLetraANumero\bin\Debug\AppCambioLetraANumero.exe
+C:\Users\LAB104BPC17\Documents\Visual Studio 2012\Projects\AppCambioLetraANumero\AppCambioLetraANumero\bin\Debug\AppCambioLetraANumero.pdb
+C:\Users\LAB104BPC17\Documents\Visual Studio 2012\Projects\AppCambioLetraANumero\AppCambioLetraANumero\obj\Debug\AppCambioLetraANumero.exe
+C:\Users\LAB104BPC17\Documents\Visual Studio 2012\Projects\AppCambioLetraANumero\AppCambioLetraANumero\obj\Debug\AppCambioLetraANumero.pdb

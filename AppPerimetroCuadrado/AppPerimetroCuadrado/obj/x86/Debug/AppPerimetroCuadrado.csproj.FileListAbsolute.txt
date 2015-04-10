@@ -1,0 +1,5 @@
+C:\Users\LAB1DPC2\Documents\Projects\AppPerimetroCuadrado\AppPerimetroCuadrado\bin\Debug\AppPerimetroCuadrado.exe
+C:\Users\LAB1DPC2\Documents\Projects\AppPerimetroCuadrado\AppPerimetroCuadrado\bin\Debug\AppPerimetroCuadrado.pdb
+C:\Users\LAB1DPC2\Documents\Projects\AppPerimetroCuadrado\AppPerimetroCuadrado\obj\x86\Debug\AppPerimetroCuadrado.csprojResolveAssemblyReference.cache
+C:\Users\LAB1DPC2\Documents\Projects\AppPerimetroCuadrado\AppPerimetroCuadrado\obj\x86\Debug\AppPerimetroCuadrado.exe
+C:\Users\LAB1DPC2\Documents\Projects\AppPerimetroCuadrado\AppPerimetroCuadrado\obj\x86\Debug\AppPerimetroCuadrado.pdb

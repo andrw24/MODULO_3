@@ -1,0 +1,6 @@
+c:\users\lab104bpc17\documents\visual studio 2012\Projects\AppCambioNumeroTextoANumero\AppCambioNumeroTextoANumero\bin\Debug\AppCambioNumeroTextoANumero.exe.config
+c:\users\lab104bpc17\documents\visual studio 2012\Projects\AppCambioNumeroTextoANumero\AppCambioNumeroTextoANumero\bin\Debug\AppCambioNumeroTextoANumero.exe
+c:\users\lab104bpc17\documents\visual studio 2012\Projects\AppCambioNumeroTextoANumero\AppCambioNumeroTextoANumero\bin\Debug\AppCambioNumeroTextoANumero.pdb
+c:\users\lab104bpc17\documents\visual studio 2012\Projects\AppCambioNumeroTextoANumero\AppCambioNumeroTextoANumero\obj\Debug\AppCambioNumeroTextoANumero.csprojResolveAssemblyReference.cache
+c:\users\lab104bpc17\documents\visual studio 2012\Projects\AppCambioNumeroTextoANumero\AppCambioNumeroTextoANumero\obj\Debug\AppCambioNumeroTextoANumero.exe
+c:\users\lab104bpc17\documents\visual studio 2012\Projects\AppCambioNumeroTextoANumero\AppCambioNumeroTextoANumero\obj\Debug\AppCambioNumeroTextoANumero.pdb

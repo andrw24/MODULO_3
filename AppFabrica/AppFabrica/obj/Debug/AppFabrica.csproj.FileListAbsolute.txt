@@ -1,0 +1,6 @@
+c:\users\lab104bpc17\documents\visual studio 2012\Projects\AppFabrica\AppFabrica\bin\Debug\AppFabrica.exe.config
+c:\users\lab104bpc17\documents\visual studio 2012\Projects\AppFabrica\AppFabrica\bin\Debug\AppFabrica.exe
+c:\users\lab104bpc17\documents\visual studio 2012\Projects\AppFabrica\AppFabrica\bin\Debug\AppFabrica.pdb
+c:\users\lab104bpc17\documents\visual studio 2012\Projects\AppFabrica\AppFabrica\obj\Debug\AppFabrica.csprojResolveAssemblyReference.cache
+c:\users\lab104bpc17\documents\visual studio 2012\Projects\AppFabrica\AppFabrica\obj\Debug\AppFabrica.exe
+c:\users\lab104bpc17\documents\visual studio 2012\Projects\AppFabrica\AppFabrica\obj\Debug\AppFabrica.pdb

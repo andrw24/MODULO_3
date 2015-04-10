@@ -1,0 +1,6 @@
+C:\Users\LAB1DPC2\Documents\Projects\AppSumaProducto\AppSumaProducto\bin\Debug\AppSumaProducto.exe
+C:\Users\LAB1DPC2\Documents\Projects\AppSumaProducto\AppSumaProducto\bin\Debug\AppSumaProducto.pdb
+C:\Users\LAB1DPC2\Documents\Projects\AppSumaProducto\AppSumaProducto\obj\x86\Debug\AppSumaProducto.exe
+C:\Users\LAB1DPC2\Documents\Projects\AppSumaProducto\AppSumaProducto\obj\x86\Debug\AppSumaProducto.pdb
+E:\Modulo 3\Projects\AppSumaProducto\AppSumaProducto\obj\x86\Debug\AppSumaProducto.exe
+E:\Modulo 3\Projects\AppSumaProducto\AppSumaProducto\obj\x86\Debug\AppSumaProducto.pdb
